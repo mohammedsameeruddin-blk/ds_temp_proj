@@ -1,0 +1,6 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: bff456e
+_src_path: git@github.com:mohammedsameeruddin-blk/temp_project_template.git
+model:
+-   name: risk_level_model
+project: ds_temp_proj

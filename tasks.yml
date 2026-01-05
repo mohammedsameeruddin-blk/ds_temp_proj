@@ -1,0 +1,10 @@
+tasks:
+  - data_loading
+  - data_preprocessing
+  - data_featurization
+  - train_test_split
+
+
+  - risk_level_model:
+      depends_on: train_test_split
+
