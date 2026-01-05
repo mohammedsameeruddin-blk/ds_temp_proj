@@ -3,5 +3,4 @@ _commit: bff456e
 _src_path: git@github.com:mohammedsameeruddin-blk/temp_project_template.git
 model:
 -   name: risk_level_model
--   name: new_customer_model
 project: ds_temp_proj
